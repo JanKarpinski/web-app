@@ -1,0 +1,19 @@
+# VSC
+.history
+.vscode/settings.json
+
+# Environment variables
+.env
+
+# API
+api/source/node_modules
+api/source/build
+api/source/tmp
+api/source/uploads
+
+# DB
+# ...
+
+# Misc
+postgres
+.DS_Store
