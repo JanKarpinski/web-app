@@ -1,0 +1,53 @@
+.ver{
+    width: 10vh;
+    float: left;
+    writing-mode: vertical-lr;
+    padding-left: 30px;
+    color: rgb(255, 119, 0);;
+}
+.right{
+
+    width: auto;
+    float: left;
+    margin: 0;
+    color: black;
+}
+
+
+.right form{
+    width: 300px;
+}
+.kraj{
+    width: 80px;
+    border-radius: 30px;
+    border: gray 1px solid;
+    height: 15px;
+    padding: 10px;
+}
+.tel{
+    width: 150px;
+    border-radius: 30px;
+    border: gray 1px solid;
+    height: 15px;
+    padding: 10px;
+}
+.haslo{
+    width: 252px;
+    border-radius: 30px;
+    border: gray 1px solid;
+    height: 15px;
+    padding: 10px;
+}
+
+.button{
+    border-radius: 20px;
+    background-color: rgb(255, 119, 0);;
+    color:white;
+    padding: 10px;
+    border:none;
+    font-weight: 700;
+    width: 100px;
+}
+.dyf{
+    background-color: rgb(255, 119, 0);
+}

@@ -1,0 +1,24 @@
+.ver{
+    width: 10vh;
+    float: left;
+    writing-mode: vertical-lr;
+    padding-left: 30px;
+}
+.right{
+    color:white;
+    width: auto;
+    float: left;
+    margin: 0;
+}
+.button{
+    border-radius: 20px;
+    background-color: white;
+    color:rgb(255, 119, 0);
+    padding: 10px;
+    border:none;
+    font-weight: 700;
+    width: 120px;
+}
+.dyf{
+    background-color: rgb(255, 119, 0);
+}
